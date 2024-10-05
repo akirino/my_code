@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "editor.autoIndent": "keep",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "security.allowedUNCHosts": [
+        "192.1.1.52"
+    ]
+}
